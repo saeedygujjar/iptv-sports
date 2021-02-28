@@ -1,0 +1,131 @@
+#EXTM3U url-tvg="" refresh="3600"
+
+EXTINF:-1 tvg-logo="https://i.postimg.cc/85FRNG1Z/supersport-variety-1.png"group-title="Sports",SuperSport Variety 1 HD VIP AF
+#EXTVLCOPT:network-caching=1000
+http://mytv.fun:8080/live/e4rqi92ihuo/59v6i590bp/678020.m3u8
+
+
+Dacumentry
+#EXTINF:-1 tvg-id="" tvg-name="",Animal Planet hindi
+http://itvorigin.multitvsolution.com/idvo/aphdhindi_360p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="",Discovery Hindi
+http://itvorigin.multitvsolution.com/idvo/discoveryhindi_360p/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="",Discovery science (2)
+http://itvorigin.multitvsolution.com/idvo/discoversciencehindi_360p/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="",Animal Planet hindi hD
+https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="",discover hindi HD
+https://itvorigin.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="",discover Science hindi HD
+https://itvorigin.multitvsolution.com/idvo/discoversciencehindi.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="",Nat geo Wild English HD
+http://mu02.v2iptv.com:8880/yw14m2n005/AeKMWJKfv2/30060
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="",discovery science hd
+https://itvorigin.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="",Discovery Turbo 
+https://itvorigin.multitvsolution.com/idvo/turboeng_360p/index.m3u8
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="===== PUNJABI =====" tvg-logo="" group-title="PUNJABI",===== PUNJABI - 33 CHANNELS =====
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93686
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: AIKAM TV HD" tvg-logo="" group-title="PUNJABI",PUNJABI: AIKAM TV HD
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93687
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: BRIT ASIA" tvg-logo="" group-title="PUNJABI",PUNJABI: BRIT ASIA
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93688
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: CHARDIKALAH TIMES TV" tvg-logo="" group-title="PUNJABI",PUNJABI: CHARDIKALAH TIMES TV
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93689
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: CHARDIKLA TIMES TV" tvg-logo="" group-title="PUNJABI",PUNJABI: CHARDIKLA TIMES TV
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93690
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: DD PUNJABI" tvg-logo="" group-title="PUNJABI",PUNJABI: DD PUNJABI
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93691
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: DESI CHANNEL" tvg-logo="" group-title="PUNJABI",PUNJABI: DESI CHANNEL
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93692
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: FATEH TV" tvg-logo="" group-title="PUNJABI",PUNJABI: FATEH TV
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93693
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: GLOBAL PUNJABI HD" tvg-logo="" group-title="PUNJABI",PUNJABI: GLOBAL PUNJABI HD
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93694
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: HUNGAMA AMRITVANI HD" tvg-logo="" group-title="PUNJABI",PUNJABI: HUNGAMA AMRITVANI HD
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93695
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: INDIA NEWS PUNJAB" tvg-logo="" group-title="PUNJABI",PUNJABI: INDIA NEWS PUNJAB
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93696
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: JASHAN TV HD" tvg-logo="" group-title="PUNJABI",PUNJABI: JASHAN TV HD
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93697
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: JUS 24x7" tvg-logo="" group-title="PUNJABI",PUNJABI: JUS 24x7
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93698
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: JUS ONE" tvg-logo="" group-title="PUNJABI",PUNJABI: JUS ONE
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93699
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: LIVING INDIA NEWS" tvg-logo="" group-title="PUNJABI",PUNJABI: LIVING INDIA NEWS
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93700
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: MAHA" tvg-logo="" group-title="PUNJABI",PUNJABI: MAHA
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93701
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: MANORANJAN MOVIES" tvg-logo="" group-title="PUNJABI",PUNJABI: MANORANJAN MOVIES
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93702
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: MANORANJAN TV" tvg-logo="" group-title="PUNJABI",PUNJABI: MANORANJAN TV
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93703
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: MH1 MUSIC" tvg-logo="" group-title="PUNJABI",PUNJABI: MH1 MUSIC
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93704
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: MH1 NEWS" tvg-logo="" group-title="PUNJABI",PUNJABI: MH1 NEWS
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93705
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: MH1 SHRADDHA" tvg-logo="" group-title="PUNJABI",PUNJABI: MH1 SHRADDHA
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93706
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: NEWS 18 PUNJAB HARYANA" tvg-logo="" group-title="PUNJABI",PUNJABI: NEWS 18 PUNJAB HARYANA
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93707
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: PCHS TV HD" tvg-logo="" group-title="PUNJABI",PUNJABI: PCHS TV HD
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93708
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: PITAARA TV" tvg-logo="" group-title="PUNJABI",PUNJABI: PITAARA TV
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93709
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: PRIME ASIA HD" tvg-logo="" group-title="PUNJABI",PUNJABI: PRIME ASIA HD
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93710
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: PTC CHAKDE" tvg-logo="" group-title="PUNJABI",PUNJABI: PTC CHAKDE
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93711
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: PTC NEWS" tvg-logo="" group-title="PUNJABI",PUNJABI: PTC NEWS
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93712
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: PTC PUNJABI" tvg-logo="" group-title="PUNJABI",PUNJABI: PTC PUNJABI
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93713
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: SANJHA TV HD" tvg-logo="" group-title="PUNJABI",PUNJABI: SANJHA TV HD
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93714
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: SSTV HD" tvg-logo="" group-title="PUNJABI",PUNJABI: SSTV HD
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93715
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: TADKA" tvg-logo="" group-title="PUNJABI",PUNJABI: TADKA
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93716
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: TATA SKY PUNJAB DE RANG" tvg-logo="" group-title="PUNJABI",PUNJABI: TATA SKY PUNJAB DE RANG
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93717
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: ZEE PUNJAB HARYANA HD" tvg-logo="" group-title="PUNJABI",PUNJABI: ZEE PUNJAB HARYANA HD
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93718
+#EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: ZEE PUNJABI" tvg-logo="" group-title="PUNJABI",PUNJABI: ZEE PUNJABI
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93719
+
+
+
+	#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG",SPORTS_STAR_SPORTS_HD1_HINDI	
+http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/1893
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SPORTS_STAR_SPORTS_3 ***
+http://103.77.9.118:8000/play/a0b1
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/FoxCricketHD_Late2018.png",FOX_501_HD
+http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/61094
+
+#EXTINF:-1 tvg-logo="ext" group-title="my",JASMIN TV ♥
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="my",Models Inc.♥
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="my",A3 Bikini ♥
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="my",FTV Midnight ♥
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+
+
