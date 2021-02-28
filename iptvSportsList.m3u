@@ -205,3 +205,23 @@ http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93717
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93718
 #EXTINF:-1 tvg-ID="" tvg-name="PUNJABI: ZEE PUNJABI" tvg-logo="" group-title="PUNJABI",PUNJABI: ZEE PUNJABI
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93719
+
+
+
+	#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG",SPORTS_STAR_SPORTS_HD1_HINDI	
+http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/1893
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Live_TV_logo.jpg",SPORTS_STAR_SPORTS_3 ***
+http://103.77.9.118:8000/play/a0b1
+#EXTINF:-1 tvg-id="DTH" tvg-name=DTH" group-title="DTH | D2H | SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/FoxCricketHD_Late2018.png",FOX_501_HD
+http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/61094
+
+#EXTINF:-1 tvg-logo="ext" group-title="my",JASMIN TV ♥
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="my",Models Inc.♥
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="my",A3 Bikini ♥
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="my",FTV Midnight ♥
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+
+
