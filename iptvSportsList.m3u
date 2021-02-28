@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="http://server/jtv.zip" refresh="3600"
+
 #EXTM3U#EXTM3U
 
 #EXTINF:-1, group-title="Sports",Willow HD
