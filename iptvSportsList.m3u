@@ -15,8 +15,11 @@ https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/Kahani1/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",Sony six (opt1)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",Sony six (1)
 http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",Sony six (2)
+https://github.com/saeedygujjar/iptv-sports/raw/main/SonySixHD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",ten 1 (opt1)
 http://209.126.120.153:80/hls/ten1.m3u8
