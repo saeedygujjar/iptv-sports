@@ -1,7 +1,6 @@
 #EXTM3U
 #EXT-X-TARGETDURATION:3
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:2
+#EXT-X-VERSION:4
+#EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10.0,
 http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/DmhOK53UVf/93735
-/https://afghantvchannels.webhop.me/Cricket-Astro-Cricket-Quality/tracks-v3a1/mono.m3u8
