@@ -14,13 +14,14 @@ https://raw.githubusercontent.com/avinashcs2138/IPTV/main/Channels/WillowTV.m3u8
 #EXTINF:-1, group-title="Sports",Willow HD (3)
 https://github.com/saeedygujjar/iptv-sports/raw/main/willow%20Cricket.m3u8
 
-#EXTINF:-1, group-title="Sports",PTV Sports (Opt-1)
+#EXTINF:-1, group-title="Sports",PTV Sports (1)
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 
+#EXTINF:-1, group-title="Sports",PTV Sports (2)
+http://185.71.64.167/live/307207311702/307207311702/84031.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",Geo Super (2)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",Geo Super (1)
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/playlist.m3u8
-https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/Kahani1/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sports",Sony six (1)
